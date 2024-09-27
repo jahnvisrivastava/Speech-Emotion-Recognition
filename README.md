@@ -5,3 +5,27 @@ Speech Emotion Recognition (SER) is the process of detecting and identifying emo
 # Objective
    
 The goal of the project is to classify emotions such as happiness, sadness, anger, fear, etc., from speech data using machine learning or deep learning models.
+
+# Dataset
+
+The dataset used for this project includes audio files labeled with different emotions, such as the RAVDESS or EMO-DB datasets.
+
+#Tools & Technologies
+
+Python
+Librosa (for audio processing)
+Scikit-learn / TensorFlow / Keras (for model development)
+NumPy
+Pandas
+Matplotlib
+
+# Feature Extraction
+
+MFCC (Mel-Frequency Cepstral Coefficients)
+Chroma feature
+Spectral contrast
+
+# Model Architecture
+
+CNN for feature learning and classification.
+SVM and Random Forest as alternative classifiers for comparison.
