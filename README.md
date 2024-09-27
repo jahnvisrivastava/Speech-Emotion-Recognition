@@ -32,4 +32,4 @@ SVM and Random Forest as alternative classifiers for comparison.
 
 # How to Run
 
-Clone the repository:
+Clone the repository: https://github.com/jahnvisrivastava/Speech-Emotion-Recognition.git
