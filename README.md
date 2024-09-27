@@ -10,7 +10,7 @@ The goal of the project is to classify emotions such as happiness, sadness, ange
 
 The dataset used for this project includes audio files labeled with different emotions, such as the RAVDESS or EMO-DB datasets.
 
-#Tools & Technologies
+# Tools & Technologies
 
 Python
 Librosa (for audio processing)
