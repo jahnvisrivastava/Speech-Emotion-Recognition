@@ -29,3 +29,7 @@ Spectral contrast
 
 CNN for feature learning and classification.
 SVM and Random Forest as alternative classifiers for comparison.
+
+# How to Run
+
+Clone the repository:
